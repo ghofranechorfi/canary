@@ -20,6 +20,7 @@
   "dependencies": {
     "expess": "0.0.1-security",
     "express": "^4.17.1",
+    "express-handlebars": "^6.0.2",
     "my": "^0.3.3",
     "mysql": "^2.18.1",
     "sql": "^0.78.0"
